@@ -1,0 +1,18 @@
+1. calc.C
+    Calculation of two wires
+
+2. calc_multiple.C
+    Calculation of a single plane (15 wires) above a ground plane
+    We assume the plane has a fixed voltage ...
+
+3. test.C  (3 electrode)
+   toy to test the idea of different potential ...
+
+4. test1.C (3 electrode)
+   same as test.C, but trying to include a realsitic calculation of L
+
+5. test2.C (full model)
+
+6. plot_current.C
+   Simulate waveform
+   Also can swing the potential in a plane etc.
